@@ -1,6 +1,0 @@
-[submodule "core/mecrisp-stellaris"]
-	path = core/mecrisp-stellaris
-	url = https://github.com/jeelabs/mecrisp-stellaris
-[submodule "core/embello"]
-	path = core/embello
-	url = https://github.com/jeelabs/embello
